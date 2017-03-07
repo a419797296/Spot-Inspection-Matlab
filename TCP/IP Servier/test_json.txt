@@ -1,0 +1,14 @@
+{
+	"jsonType":	"controlInfo",
+	"freq":	1000,
+	"userName":	"15055305685",
+	"productMac":	"00:CA:01:0F:00:01",
+	"sampleNum":	80000,
+	"fileName":	"blue",
+	"channelList":	"012",
+	"channel_info":	{
+		"num":	2,
+		"name":	"virb_sens0",
+		"data":	"07D007D007D007D007D007D007D007D007D007D007D007D007D007D007D007D007D007D0"
+	}
+}
